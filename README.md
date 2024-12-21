@@ -11,7 +11,7 @@
 
 <h1 align="center">Connect with me</h1>
 <p align="center">
-  <a href="https://linkedin.com/in/abhinay-singh" target="_blank">
+  <a href="https://www.linkedin.com/in/abhinaysngh07/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinay singh" height="30" width="40" />
   </a>
   <a href="https://discord.gg/cute_mango_30578" target="_blank">
